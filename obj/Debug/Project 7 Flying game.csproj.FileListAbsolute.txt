@@ -1,0 +1,10 @@
+C:\Users\TOPTECH\source\C#\Project 7 Flying game\bin\Debug\Project 7 Flying game.exe.config
+C:\Users\TOPTECH\source\C#\Project 7 Flying game\bin\Debug\Project 7 Flying game.exe
+C:\Users\TOPTECH\source\C#\Project 7 Flying game\bin\Debug\Project 7 Flying game.pdb
+C:\Users\TOPTECH\source\C#\Project 7 Flying game\obj\Debug\Project 7 Flying game.csproj.AssemblyReference.cache
+C:\Users\TOPTECH\source\C#\Project 7 Flying game\obj\Debug\Project_7_Flying_game.Form1.resources
+C:\Users\TOPTECH\source\C#\Project 7 Flying game\obj\Debug\Project_7_Flying_game.Properties.Resources.resources
+C:\Users\TOPTECH\source\C#\Project 7 Flying game\obj\Debug\Project 7 Flying game.csproj.GenerateResource.cache
+C:\Users\TOPTECH\source\C#\Project 7 Flying game\obj\Debug\Project 7 Flying game.csproj.CoreCompileInputs.cache
+C:\Users\TOPTECH\source\C#\Project 7 Flying game\obj\Debug\Project 7 Flying game.exe
+C:\Users\TOPTECH\source\C#\Project 7 Flying game\obj\Debug\Project 7 Flying game.pdb
